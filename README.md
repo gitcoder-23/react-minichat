@@ -4,4 +4,16 @@ A simple fullstack mini chat app with React and Firebase.
 
 Watch on full [React Firebase Chat Tutorial](https://youtu.be/zQyrwxMPm88) on YouTube. 
 
-[Live demo](https://minichat-d0af4.web.app/)
+[Live demo](https://minichat-app.netlify.app)
+
+// CLI
+firebase logout
+1.> npm install -g firebase-tools
+
+firebase login
+
+firebase init
+
+firebase deploy
+
+firebase deploy --only functions
